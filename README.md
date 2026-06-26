@@ -12,7 +12,7 @@ Frida Gonzales https://github.com/frrrida
 
 Constanza Seyssel https://github.com/constanzaseyssel-source 
 
- https://editor.p5js.org/frrrida/sketches/P3W7mBcU8
+ link p5 
 
 # Relato inicial 
 
