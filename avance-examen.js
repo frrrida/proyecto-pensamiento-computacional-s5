@@ -185,3 +185,27 @@ function drawPaperTexture() {
 
       }
   }
+
+segunnndo intento dibujar en affinity y colocar las imageness
+let estrella;
+let nube
+let contorno
+
+function preload() {
+  estrella = loadImage("estrella1.png");
+  nube = loadImage("nube1.png");
+  contornonube= loadImage("contornonube.png")
+}
+
+function setup() {
+  createCanvas(900, 900);
+
+}
+
+function draw() {
+   image(estrella, 0, 0, width, height); 
+  image(nube, 0, 0, width, height);
+  image(contornonube, 0, 0, width, height);
+  
+}
+funciona mejorrr y mas facil con imageness
