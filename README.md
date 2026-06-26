@@ -102,6 +102,8 @@ En medio de ellos se encuentra un corazón, tambien con un leve tintinei, al toc
 
 Para pasar al cuarto estado, deben borra el recuerdo con el mismo mouse. 
 
+(sin texto) 
+
 if(escena == 3){
 
   // Dibujamos primero la escena 4 debajo
@@ -135,6 +137,54 @@ if(escena == 3){
 
       escena = 4;
 
+  }
+
+}
+
+(con texto) 
+
+if (escena == 3) {
+
+  // Dibujamos primero la escena 4 debajo
+  background(203,214,233);
+
+  image(nube2, 0, 0, width, height);
+  image(estrellatriste, 0, 0, width, height);
+
+  moverLagrimas = 4 * sin(frameCount * 0.12);
+
+  image(
+    lagrimas,
+    0,
+    moverLagrimas,
+    width,
+    height
+  );
+
+  // TEXTO DE FONDO
+  fill(255);
+  textSize(42);
+  textAlign(CENTER, CENTER);
+
+  // Parte normal
+  textStyle(NORMAL);
+  text("así te veo a ti", width/2, height/2);
+
+  // Palabra en negrita
+  textStyle(BOLD);
+  text("desapareces", width/2, height/2 + 50);
+
+  // Encima dibujamos el pensamiento
+  tint(255, transparenciaPensamiento);
+
+  background(243,244,255);
+
+  image(parejatriste, 0, 0, width, height);
+
+  noTint();
+
+  if (transparenciaPensamiento <= 0) {
+    escena = 4;
   }
 
 }
