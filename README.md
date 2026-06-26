@@ -15,10 +15,11 @@ Constanza Seyssel https://github.com/constanzaseyssel-source
 # Relato inicial 
 
  El origen de nuestro proyecto nace a base de la letra de la canción, en donde habla de como se
- se siente la persona a la ausencia de el amor de su ex-pareja. Nosotras quisimoa representarlo atraves de una estrella, representando un poco el sello que tiene la banda de Latin Mafia. 
+ se siente la persona con la ausencia del amor de su ex-pareja. Nosotras quisimos representarlo atraves de una estrella, representando un poco el sello que tiene la portada de la canción, y la idea era que en este proyecto se ayudara a la estrella a sentirse mejor intentando "curar" su corazón basandonos en la frase que mas se repite de la canción que dice "de tu amor yo no sé si me recuperaré"
 
-
- (insertar imagenes) 
+# Storyboard inicial
+boceto de como queriamos que fuera, luego de eso los dibujos se realizaron en digital 
+![storyboard](image/storyboard.jpeg) 
 
 # Primer estado
 
