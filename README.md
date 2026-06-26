@@ -4,7 +4,7 @@ examen de s5 pensamiento computacional
 # neo roneo 
 Rusowsky, LATIN MAFIA(2024). Neo Roneo [canción]
 
-(portada proyecto) 
+![Portada del proyecto](image/portada.png) 
 
 Frida Gonzales https://github.com/frrrida 
 
