@@ -36,11 +36,15 @@ Al hacer click en la nube, se realiza un zoom para poder mostrar que nuestra est
 
 En medio de ellos se encuentra un corazón, tambien con un leve tintinei, al tocarlo el corazón se rompe mostrandonos el por qué de que nuestra estrella este mal. 
 
+Para pasar al cuarto estado, deben borra el recuerdo con el mismo mouse. 
+
 (insertar codigo) 
 
 # Cuarto estado 
 
 Al suceder eso, salimos del pensamiento de la estrella y ahora volvemos a la imagen inicial, pero ahora la estrella se encuentra llorando. 
+
+Acá la interacción es de que con el mouse, deben borrar las lagrimas de la estrellita. 
 
 (insertar codigo) 
 
