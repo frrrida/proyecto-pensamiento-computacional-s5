@@ -6,7 +6,7 @@ Rusowsky, LATIN MAFIA(2024). Neo Roneo [canción]
 
 (portada proyecto) 
 
-Frida Gonzales 
+Frida Gonzales https://github.com/frrrida 
 
 Constanza Seyssel https://github.com/constanzaseyssel-source 
 
